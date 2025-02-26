@@ -1,1 +1,1 @@
-﻿# Proz ex-01 pontos turisticos/html
+﻿# Proz HTML/CSS exercicios 
