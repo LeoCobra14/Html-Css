@@ -1,0 +1,41 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Cabeçalho e rodapé */
+header, footer {
+    background-color: #0077b6;
+    color: white;
+    padding: 15px;
+    transition: background-color 0.3s ease;
+}
+
+header:hover, footer:hover {
+    background-color: #005f8d;
+}
+
+/* Container */
+.container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Imagem */
+img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+}
